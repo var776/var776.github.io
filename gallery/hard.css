@@ -1,0 +1,10 @@
+.img-box {
+	column-count: 4;
+	column-gap: 0;
+}
+
+.image {
+	display: block;
+	max-width: calc(100% - 3px);
+	margin: 3px;
+}
